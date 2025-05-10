@@ -1,5 +1,4 @@
 import Quiz from '../../client/src/components/Quiz';
-import React from 'react';
 
 const mockQuestions = [
   {
